@@ -6,6 +6,16 @@ Deadlane is provided by **Emir Entertainment** (“we”, “us”, or “our”
 
 Privacy contact: [emirentst@gmail.com](mailto:emirentst@gmail.com)
 
+## Request deletion of Deadlane data
+
+**Email [emirentst@gmail.com](mailto:emirentst@gmail.com?subject=Deadlane%20data%20deletion%20request) with the subject "Deadlane data deletion request".** Tell Emir Entertainment which information you want deleted. If you previously contacted support, send the request from that same email address where possible. Do not send passwords or identity documents. We will ask for only the additional information needed to verify your request and locate the relevant records.
+
+**What we can delete:** support emails and attachments we hold, and identifiable gameplay statistics under our control when we can locate the relevant Analytics records. Deadlane has no player account and does not collect your email in gameplay, so an email address alone cannot identify an Analytics record. We will explain any identification limits when responding. Turning off gameplay statistics resets the local Analytics identifier and stops future collection; it does not erase previously transmitted records.
+
+**Local game data:** to remove saved progress, difficulty history and preferences, open Android Settings, select Apps, then Deadlane, then Storage, and choose Clear storage (wording varies by device). Device backups may retain a copy and can be managed separately in your backup settings.
+
+**Data kept and timing:** we aim to respond within 30 days. Information required for legal obligations, security or resolving a dispute may be retained only as long as needed for that purpose; if an exception applies, we will explain the reason and applicable retention period in our response. There is no blanket automatic deletion within 90 days. Google's independently controlled advertising and consent records follow Google's retention rules and privacy controls; we cannot promise to delete all such records ourselves. You can use Android advertising privacy controls and the Google privacy links below to manage that data.
+
 ## Information handled by the game
 
 **Local game data.** Deadlane saves your difficulty adjustment history and preferences, including your choice about gameplay statistics, on your device. This allows the game to remember settings and adjust difficulty. There is no player account, sign-in, or developer-operated cloud save service. Android device backup settings may affect whether local app data is backed up or restored.
